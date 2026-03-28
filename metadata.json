@@ -1,0 +1,5 @@
+{
+  "name": "FinPortal",
+  "description": "A comprehensive financial portal with loan aggregators, NBFCs, govt schemes, and an AI assistant.",
+  "requestFramePermissions": []
+}
